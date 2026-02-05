@@ -1,4 +1,10 @@
 import streamlit as st
+from dotenv import load_dotenv
+
+# Load environment variables (Prioritize system env vars, fallback to .env)
+# override=False is default, ensuring system env vars take precedence
+load_dotenv()
+
 import pandas as pd
 import plotly.express as px
 import os
