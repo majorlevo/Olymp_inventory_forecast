@@ -1,0 +1,7 @@
+
+
+.venv/
+__pycache__/
+.env
+documents/
+bood_sample_mobile/

@@ -1,0 +1,11 @@
+streamlit
+pandas
+openpyxl
+plotly
+scikit-learn
+statsmodels
+xgboost
+openai
+python-dotenv
+torch
+fpdf
